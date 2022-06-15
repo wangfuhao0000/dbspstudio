@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wangfuhao0000.dbspstudio.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wangfuhao0000.dbspstudio.MyBundle
 
 class MyApplicationService {
 

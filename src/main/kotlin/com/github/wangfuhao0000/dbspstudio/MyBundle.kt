@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.wangfuhao0000.dbspstudio
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
